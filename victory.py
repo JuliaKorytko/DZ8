@@ -42,8 +42,3 @@ while True:
     if question_about_quiz == "да":
         continue
 print("end")
-
-
-
-
-

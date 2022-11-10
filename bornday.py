@@ -13,7 +13,4 @@ if bornyear ==1799:
 else:
     print("Неверный год рождения")
 
-
-
-
 print("end")
